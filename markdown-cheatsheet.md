@@ -1,7 +1,7 @@
 ---
 title: Markdown Cheatsheet
 date: 2000-01-01
-layout: Post
+layout: Page
 tag: markdown, cheatsheet
 ---
 
@@ -134,3 +134,8 @@ _Image with alt :_
 [![それは考えが浅うございまする](http://tiqav.com/3en.th.jpg)](http://tiqav.com/3en)
 
     Markup : [![それは考えが浅うございまする](http://tiqav.com/3en.th.jpg)](http://tiqav.com/3en)
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iBrcxpGVNcQ" frameborder="0" allowfullscreen></iframe>
+
+    Markup : <iframe width="560" height="315" src="https://www.youtube.com/embed/iBrcxpGVNcQ" frameborder="0" allowfullscreen></iframe>
