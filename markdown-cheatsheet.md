@@ -139,3 +139,20 @@ _Image with alt :_
 <iframe width="560" height="315" src="https://www.youtube.com/embed/iBrcxpGVNcQ" frameborder="0" allowfullscreen></iframe>
 
     Markup : <iframe width="560" height="315" src="https://www.youtube.com/embed/iBrcxpGVNcQ" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/iBrcxpGVNcQ" frameborder="0" allowfullscreen></iframe>
+
+    Markup : <iframe width="1280" height="720" src="https://www.youtube.com/embed/iBrcxpGVNcQ" frameborder="0" allowfullscreen></iframe>
+
+# ツイート
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">Webエンジニアの多くは実は結構乙女系で、「ぼくこんなことできるようになったよみんな褒めて」とか共感を求めてるだけなんけどなぜか言語化すると「今すぐ●●を使わないと死ぬから△△すべき10の理由」とか書いちゃうので、結果的に論争になり心が傷ついていく</p>&mdash; Naoya Ito (@naoya_ito) <a href="https://twitter.com/naoya_ito/status/472235942158159872">2014年5月30日</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# でかいファイル
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/miyaoka/4302885807/in/album-72157623363061136/" title="P1010145"><img src="https://c8.staticflickr.com/3/2704/4302885807_f96f85b7cb_b.jpg" width="1024" height="548" alt="P1010145"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-header="true" data-footer="true" data-context="true"  href="https://www.flickr.com/photos/miyaoka/4302885807/in/album-72157623363061136/" title="P1010145"><img src="https://c8.staticflickr.com/3/2704/4302885807_03605a206a_o.jpg" width="4000" height="2141" alt="P1010145"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
