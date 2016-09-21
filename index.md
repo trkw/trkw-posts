@@ -1,6 +1,7 @@
 ---
-title: trkw blog
+title: とり川
 layout: Homepage
+description: いまどきのWeb技術ってモダンすぎてついていけなくないですか？
 ---
 
 Built with
@@ -9,4 +10,6 @@ Built with
   React
 </a>.
 
-新宿で働くさとりエンジニアの備忘録、雑記、ダイエットログ、たまに写真
+<div style="text-align:center">
+いまどきのWeb技術ってモダンすぎてついていけなくないですか？
+</div>
