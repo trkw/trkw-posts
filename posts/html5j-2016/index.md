@@ -9,7 +9,7 @@ image: 'html5j.jpg'
 ---
 
 
-# 中村修 「Webという名のDistributed Operatiing System」
+# 中村修 「Webという名のDistributed Operating System」
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/QlW6OM7VXFI" frameborder="0" allowfullscreen></iframe>
 
