@@ -1,5 +1,5 @@
 ---
-title: とり川
+title: ""
 layout: Homepage
 description: フロントエンド界隈を中心としたモダンなテクノロジーについて語るオープンソースコミュニティです
 ---
