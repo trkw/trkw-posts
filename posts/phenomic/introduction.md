@@ -3,6 +3,7 @@ title: Phenomicをつかってますか？
 date: 2016-08-25
 layout: Post
 tag: phenomic
+entryread: Phenomicの紹介編
 authors:
   - trkw
 image: 'phenomic.jpg'
