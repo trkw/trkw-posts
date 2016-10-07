@@ -3,6 +3,7 @@ title: Slack Beta 試しましたか？
 date: 2016-09-20
 layout: Post
 tag: slack
+badge: slack.svg
 authors:
   - trkw
 ---

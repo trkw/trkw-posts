@@ -3,6 +3,7 @@ title: もうErgoDoxで消耗してるの？
 date: 2016-09-15
 layout: Post
 tag: ErgoDox
+badge: ergodox.svg
 authors:
   - miyaoka
 ---
