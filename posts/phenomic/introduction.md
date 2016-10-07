@@ -6,6 +6,7 @@ tag: phenomic
 authors:
   - trkw
 image: 'phenomic.jpg'
+badge: 'phenomic.svg'
 ---
 
 このブログは、`GitHub Pages`と`Phenomic`で作られてます。

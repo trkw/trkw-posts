@@ -6,6 +6,7 @@ tag: HTML5j-2016
 authors:
   - miyaoka
 image: 'html5j.jpg'
+badge: 'html5j.svg'
 ---
 
 

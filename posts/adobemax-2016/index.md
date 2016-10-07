@@ -6,6 +6,7 @@ tag: adobe max, adobe
 authors:
   - trkw
 image: 'adobemax.jpg'
+badge: 'adobe.svg'
 ---
 
 はい、[Adobe MAX Japan 2016](http://www.event-web.net/adobemaxjapan/)に参加してきました。<br>
