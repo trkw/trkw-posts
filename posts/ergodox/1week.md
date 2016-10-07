@@ -4,6 +4,7 @@ date: 2016-09-22
 layout: Post
 tag: ErgoDox
 badge: ergodox.svg
+entryread: なんかいろいろ苦労しました
 authors:
   - miyaoka
 ---

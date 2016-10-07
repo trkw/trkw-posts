@@ -3,6 +3,7 @@ title: Phenomicはじめてみませんか？
 date: 2016-09-21
 layout: Post
 tag: phenomic
+entryread: Phenomicのインストール編
 authors:
   - trkw
 image: 'phenomic.jpg'

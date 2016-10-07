@@ -3,6 +3,7 @@ title: HTML5カンファレンス2016でモダンを考えてみませんか？
 date: 2016-09-03
 layout: Post
 tag: HTML5j-2016
+entryread: HTML5カンファレンスに言ってきた感想
 authors:
   - miyaoka
 image: 'html5j.jpg'

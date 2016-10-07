@@ -3,6 +3,7 @@ title: ErgoDoxを買ってみたらどうでしょう？
 date: 2016-09-10
 layout: Post
 tag: ErgoDox
+entryread: ErgoDoxの紹介編
 badge: ergodox.svg
 authors:
   - miyaoka
